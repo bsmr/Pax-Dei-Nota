@@ -5,6 +5,7 @@ Notes for _Pax Dei_
 ## Documents
 
 - [Skills](skills.md)
+- [Crafting](crafting.md)
 - [Game Client Settings](game-client-settings.md)
 
 ## Links
